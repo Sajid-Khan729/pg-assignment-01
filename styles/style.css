@@ -62,7 +62,12 @@ button{
 /*Hero-section*/
 
 .hero-img{
-    max-width: 474px;
+    width: 474px;
+    height: 400px;
+}
+
+.hero-image{
+    width: 474px;
     height: 400px;
 }
 
