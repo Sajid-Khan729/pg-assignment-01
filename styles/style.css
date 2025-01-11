@@ -66,6 +66,10 @@ button{
     height: 400px;
 }
 
+.hero-img{
+    background-image: url(/assets/hero.png);
+}
+
 .hero-image{
     width: 474px;
     height: 400px;
