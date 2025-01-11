@@ -61,6 +61,11 @@ button{
 
 /*Hero-section*/
 
+.hero-img{
+    max-width: 474px;
+    height: 400px;
+}
+
 .hero-sec{
     max-width: 1280px;
     margin: auto auto;
